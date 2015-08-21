@@ -1,6 +1,6 @@
 {
   "name": "pluck-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Pluck a property (or properties) from a JSON stream",
   "main": "index.js",
   "scripts": {
